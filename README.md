@@ -22,10 +22,10 @@
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=ricardsgon&show_icons=true&theme=transparent&title_color=008000&icon_color=008000&border_radius=0&cache_seconds=200#gh-dark-mode-only" alt="GitHub Stats" style="width: auto; height: 200px;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ricardsgon&show_icons=true&theme=transparent&title_color=008000&icon_color=008000&border_radius=0&cache_seconds=200#gh-dark-mode-only" alt="GitHub Stats" style="width: 180em; height: 200px;" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardsgon&theme=transparent&title_color=008000&icon_color=008000&border_radius=0&cache_seconds=200#gh-dark-mode-only" alt="Top Langs" style="width: auto; height: 200px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardsgon&theme=transparent&title_color=008000&icon_color=008000&border_radius=0&cache_seconds=200#gh-dark-mode-only" alt="Top Langs" style="width: 180em; height: 200px;" />
     </a>
 </div>
 
