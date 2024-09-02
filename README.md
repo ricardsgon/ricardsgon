@@ -16,11 +16,11 @@
 
 🐢 Keep Calm and **#include**.
 
- </div>
+</div>
  
 ##
- 
-<div>
+
+<div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
         <img src="https://github-readme-stats.vercel.app/api?username=ricardsgon&show_icons=true&theme=transparent&title_color=008000&icon_color=008000#gh-dark-mode-only" alt="GitHub Stats" style="width: 60%;" />
     </a>
@@ -28,15 +28,17 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardsgon&layout=compact&theme=transparent&title_color=008000&icon_color=008000#gh-dark-mode-only" alt="Top Langs" style="width: 35%;" />
     </a>
 </div>
-<div>
+
+<div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=ricardsgon&show_icons=true&theme=default&title_color=008000&icon_color=008000#gh-light-mode-only" alt="GitHub Stats" style="height: 60%;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ricardsgon&show_icons=true&theme=default&title_color=008000&icon_color=008000#gh-light-mode-only" alt="GitHub Stats" style="width: 60%;" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardsgon&layout=compact&theme=default&title_color=008000&icon_color=008000#gh-light-mode-only" alt="Top Langs" style="width: 35%;" />
     </a>
 </div>
-<div style="display: inline_block"><br>
+
+<div align="center" style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -51,4 +53,3 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
-
