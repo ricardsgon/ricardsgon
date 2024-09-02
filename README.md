@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🌱 Estudando **C e Python**.
 
@@ -20,12 +20,12 @@
  
 ##
 
-<div align="center">
+<div align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=ricardsgon&show_icons=true&theme=transparent&title_color=008000&icon_color=008000&cache_seconds=200#gh-dark-mode-only" alt="GitHub Stats" style="width: 60%; height: 200px;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ricardsgon&show_icons=true&theme=transparent&title_color=008000&icon_color=008000&cache_seconds=200#gh-dark-mode-only" alt="GitHub Stats" style="width: auto; height: 200px;" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardsgon&theme=transparent&title_color=008000&icon_color=008000&cache_seconds=200#gh-dark-mode-only" alt="Top Langs" style="width: 40%; height: 200px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardsgon&theme=transparent&title_color=008000&icon_color=008000&cache_seconds=200#gh-dark-mode-only" alt="Top Langs" style="width: auto; height: 200px;" />
     </a>
 </div>
 
@@ -38,7 +38,7 @@
     </a>
 </div>
 
-<div align="center" style="display: inline_block"><br>
+<div align="left" style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
