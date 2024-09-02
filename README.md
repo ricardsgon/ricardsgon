@@ -22,19 +22,19 @@
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=ricardsgon&show_icons=true&theme=transparent&title_color=008000&icon_color=008000&border_radius=0&cache_seconds=200#gh-dark-mode-only" alt="GitHub Stats" style="width: 180em; height: 200px;" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardsgon&show_icons=true&theme=transparent&title_color=008000&icon_color=008000&border_radius=0&cache_seconds=200#gh-dark-mode-only" alt="GitHub Stats"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardsgon&theme=transparent&title_color=008000&icon_color=008000&border_radius=0&cache_seconds=200#gh-dark-mode-only" alt="Top Langs" style="width: 180em; height: 200px;" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardsgon&theme=transparent&title_color=008000&icon_color=008000&border_radius=0&cache_seconds=200#gh-dark-mode-only" alt="Top Langs"/>
     </a>
 </div>
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=ricardsgon&show_icons=true&theme=default&title_color=008000&icon_color=008000&cache_seconds=200#gh-light-mode-only" alt="GitHub Stats" style="width: auto; height: 200px;" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardsgon&show_icons=true&theme=default&title_color=008000&icon_color=008000&cache_seconds=200#gh-light-mode-only" alt="GitHub Stats"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardsgon&layout=compact&theme=default&title_color=008000&icon_color=008000&cache_seconds=200#gh-light-mode-only" alt="Top Langs" style="width: auto; height: 200px;" />
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardsgon&layout=compact&theme=default&title_color=008000&icon_color=008000&cache_seconds=200#gh-light-mode-only" alt="Top Langs"/>
     </a>
 </div>
 
