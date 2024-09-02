@@ -22,10 +22,10 @@
  
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=ricardsgon&show_icons=true&theme=dark&title_color=008000&icon_color=008000#gh-dark-mode-only" alt="GitHub Stats" style="width: 60%;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ricardsgon&show_icons=true&theme=transparent&title_color=008000&icon_color=008000#gh-dark-mode-only" alt="GitHub Stats" style="width: 60%;" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardsgon&layout=compact&theme=dark&title_color=008000&icon_color=008000#gh-dark-mode-only" alt="Top Langs" style="width: 35%;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardsgon&layout=compact&theme=transparent&title_color=008000&icon_color=008000#gh-dark-mode-only" alt="Top Langs" style="width: 35%;" />
     </a>
 </div>
 <div>
