@@ -12,7 +12,7 @@
  
  🌱 Estudando **C e Python**.
 
-📚 Atualmente explorando algoritmos e estruturas de dados em C.
+📚 Atualmente explorando ponteiros e estruturas de dados em C.
 
 🐢 Keep Calm and **#include**.
 
