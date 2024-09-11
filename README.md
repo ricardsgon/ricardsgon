@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ricardsgon.ricardsgon" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ricardsgon.ricardsgon" />
 
 <h1 align="center">
     <img alt="welcome" src="https://readme-typing-svg.herokuapp.com/?font=CascadiaCode&size=35&center=true&color=008000&vCenter=true&width=500&height=70&duration=4000&lines=Olá,+🌎!;+Bem+vindo+ao+meu+perfil!;" />
