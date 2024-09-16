@@ -10,7 +10,7 @@
 
 <div align="left">
  
- 🌱 Estudando **C e Python**.
+ 🌱 Estudando **C/C++ e Python**.
 
 📚 Atualmente explorando ponteiros e estruturas de dados em C.
 
